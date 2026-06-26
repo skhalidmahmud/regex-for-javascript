@@ -402,3 +402,13 @@ function slugify(text) {
 4. **Cache Static Regular Expressions**: Define static regular expressions outside of loops or hot functions to prevent the JavaScript engine from recompiling them repeatedly.
 5. **Use `(?:...)` Non-Capturing Groups**: If you don't need to extract the matched group, use non-capturing groups to save memory and execution time.
 6. **Leverage Named Groups for Readability**: Using `(?<name>...)` makes your code self-documenting and easier for other developers to maintain.
+
+---
+
+## ✍️ Author
+
+**Md Khalid Mahmud**
+* 🌐 **Website**: [https://mdkhalidmahmud.com/](https://mdkhalidmahmud.com/)
+* 💼 **GitHub**: [@mdkhalidmahmud](https://github.com/mdkhalidmahmud) *(or your specific GitHub handle)*
+
+If you found this guide helpful, please consider giving the repository a ⭐ on GitHub!
