@@ -4,6 +4,21 @@ Welcome to the comprehensive, step-by-step guide to mastering Regular Expression
 
 ---
 
+## 📚 Explore the Repository
+
+Beyond this main masterclass guide, explore our specialized companion documents included in this repository:
+
+* 📄 **[Quick Cheat Sheet](regex-cheatsheet.md)** — Fast syntax lookup, flags, and everyday copy-paste snippets.
+* 🍳 **[Advanced Recipes](ADVANCED_RECIPES.md)** — Enterprise patterns for Network, E-Commerce, Security, and CSV parsing.
+* ⚡ **[Performance & ReDoS Guide](PERFORMANCE_AND_REDOS.md)** — Preventing catastrophic backtracking and optimizing JS execution.
+* 🎯 **[Practice Exercises](PRACTICE_EXERCISES.md)** — Interactive real-world challenges (with expandable solutions).
+* ❓ **[Frequently Asked Questions (FAQ)](FAQ.md)** — Solutions to common pitfalls like global flag `lastIndex` bugs.
+* 💻 **[Code Examples (`examples.js`)](examples.js)** — Fully runnable Node.js/browser utility functions.
+* 🤝 **[Contributing Guide](CONTRIBUTING.md)** — How to submit pull requests and contribute to this repository.
+* 📜 **[License](LICENSE.md)** — MIT Licensed for free adoption and sharing.
+
+---
+
 ## Table of Contents
 
 1. [What is a Regular Expression?](#1-what-is-a-regular-expression)
